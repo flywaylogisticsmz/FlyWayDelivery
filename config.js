@@ -3,7 +3,7 @@
 // ║  Cole aqui o URL do teu Google Apps Script Web App       ║
 // ╚══════════════════════════════════════════════════════════╝
 
-const API_URL = 'COLE_AQUI_O_URL_DO_GAS_WEB_APP';
+const API_URL = 'https://script.google.com/macros/s/AKfycbzSs4s531YJa_t-KTtHU_T2UTB9mxVcR30oq6c4UATbLZtcCYrTlGXYpff4l5Ybdhcndg/exec';
 
 // Exemplo:
 // const API_URL = 'https://script.google.com/macros/s/AKfycbx3mTA_nh1zOX4uvPP7uVtt5P4WrBie4Nw44wfx4-pbx8aRWt9sskVRqK6UZvtSIK0C/exec';
